@@ -6,4 +6,6 @@
 > * As a business Manager, try to find out weak area where you can work to make more profit.
 
 > * What all business problems you can derive by exploring the data?.
+>
+> * Python| Jupyter Notebook| Univariate Analysis| Bivariate Analysis|  
 
