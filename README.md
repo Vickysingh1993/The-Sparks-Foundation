@@ -7,5 +7,5 @@
 
 > * What all business problems you can derive by exploring the data?.
 >
-> * Python| Jupyter Notebook| Univariate Analysis| Bivariate Analysis|  
+> * Python| Jupyter Notebook| Univariate Analysis| Bivariate Analysis| Data Visualization
 
